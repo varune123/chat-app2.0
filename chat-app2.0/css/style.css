@@ -15,7 +15,7 @@ header {
     align-items: center;
     margin-left: 15%;
     margin-right: 15%;
-    background-color: green;
+    background-color: #6ca6cd;
     color:white;
     -webkit-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.33);
     box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.33);
@@ -37,7 +37,7 @@ header h2 {
 
 iframe {
     width: 100%;
-    border: 2px solid green;
+    border: 2px solid #6ca6cd;
     border-radius: 3px;
 }
 
@@ -65,7 +65,7 @@ iframe {
     margin: 0;
     padding: 0;
     background: white;
-    color: green;
+    color: #6ca6cd;
     box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.33);
 
     top: 100%;
@@ -89,11 +89,11 @@ iframe {
     padding: 5px 20px;
 
     text-decoration: none;
-    color: green;
+    color: #6ca6cd;
 }
 
 .dropdown li a:visited {
-    color: limegreen;
+    color: #6ca6cd;
 }
 
 @media(max-width: 436px) {
@@ -148,7 +148,7 @@ body {
 
     border-top-left-radius: 2px;
     border-top-right-radius: 2px;
-    border-top-color:green;
+    border-top-color:#6ca6cd;
     border-top-style:solid;
 
     font-weight: 600;
@@ -162,7 +162,7 @@ body {
 }
 
 button {
-    background-color: green;
+    background-color: #6ca6cd;
     color: white;
     padding: 6px 12px;
     font-size: 14px;
@@ -175,7 +175,7 @@ button {
 }
 
 button:active {
-    border: 2px solid;
+    border: 2px solid #4a708b;
 }
 
 #error {
@@ -232,7 +232,7 @@ input, textarea {
 }
 
 input:focus {
-    border: 2px solid green;
+    border: 2px solid #4a708b;
 }
 
 video, audio {
