@@ -100,7 +100,7 @@
     try {
         var politicsChannel = new BroadcastChannel("politics")
         politicsChannel.onmessage = onMessage
-        var userId = Date.now()
+        var userId = prompt("Enter username to continue: ")
     } catch(e) {
         error.innerHTML = "BroadcastChannel API not supported in this device."
         error.classList.remove("close")
