@@ -7,3 +7,11 @@ change to "rocket chat"
 additon of prompt "What's your name?"
 addition of timestamp
 send button changes color when mouse hovers over it
+
+
+Chat-app2.1 changes
+
+Used firebase realtime database
+Changed background colour
+Changed logo
+Changed button
